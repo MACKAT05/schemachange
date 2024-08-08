@@ -1,0 +1,20 @@
+Fail Upon Skipped Versioned Migration '--strict flag to fail when a version found in the deployment would be skipped.
+loggin variety and legit loggs
+remove library res
+vars from command line
+if oncfig file is missing... or unexpected args...
+
+default role check
+
+citibike_jinja example doesn't work
+
+always first idea...  recipe book...
+
+Query Tag value in the Change History table
+
+
+test each class
+
+ArgParser
+
+-schemachange_config

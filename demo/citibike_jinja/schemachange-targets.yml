@@ -1,0 +1,9 @@
+config-version: 1
+
+targets: 
+  Development:
+    SF_DATABASE: DEV
+  Test: 
+    SF_DATABASE: TEST
+  Production: 
+    SF_DATABASE: PROD
